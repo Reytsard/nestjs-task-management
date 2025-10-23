@@ -1,4 +1,4 @@
-export class TaskDTO{
-    title:string;
-    description:string;
+export class TaskDTO {
+  title: string;
+  description?: string;
 }
